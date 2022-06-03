@@ -1,0 +1,30 @@
+.Head {
+  width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  .btn {
+    margin-left: 1rem;
+  }
+}
+.Body {
+  // width가 주어진 상태에서 좌우 중앙 정렬
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
+  overflow: hidden;
+  .card-body {
+    max-height: 900px;
+    overflow-y: auto;
+  }
+}
+.Footer {
+  margin-top: 1px;
+  border: 1px solid gray;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  a {
+    text-decoration-line: none;
+    text-decoration: none;
+    text-align: center;
+  }
+}

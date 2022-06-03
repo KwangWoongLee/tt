@@ -1,0 +1,6 @@
+{
+    "db" :{
+        "path" : "db",
+        "name" : "auth.db"
+    }
+}
